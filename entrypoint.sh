@@ -8,4 +8,4 @@ git config --global user.name "GitHub Actions Bot"
 git config --global user.email "<>"
 git add .
 git commit -m "Updating date"
-git push
+git push origin HEAD:master
